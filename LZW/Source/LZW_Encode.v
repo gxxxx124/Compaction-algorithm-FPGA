@@ -3,7 +3,7 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 2024/06/10 18:45:17
+
 // Design Name: 
 // Module Name: LZW_Encode
 // Project Name: 
